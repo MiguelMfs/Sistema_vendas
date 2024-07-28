@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLmPIobySdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micro\\Downloads\\Sistema_Vendas\\Sistema_Vendas\\Sistema_Vendas\\Sistema_Vendas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

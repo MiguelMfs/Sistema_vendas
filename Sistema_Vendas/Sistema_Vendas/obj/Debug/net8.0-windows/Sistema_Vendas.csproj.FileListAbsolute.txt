@@ -1,0 +1,115 @@
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.exe
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.deps.json
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.runtimeconfig.json
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.FMenu.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfo.cs
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\refint\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.genruntimeconfig.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\ref\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.Properties.Resources.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FCliente.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\sistema_vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CopyComplete
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.exe
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.deps.json
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.runtimeconfig.json
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.FMenu.resources
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.Properties.Resources.resources
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FCliente.resources
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfo.cs
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CopyComplete
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\refint\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.genruntimeconfig.cache
+C:\Users\eduardo.gomes\Desktop\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\ref\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.exe
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.deps.json
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.runtimeconfig.json
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.FMenu.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.Properties.Resources.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FCliente.resources
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfo.cs
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CopyComplete
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\refint\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.genruntimeconfig.cache
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\ref\Sistema_Vendas.dll
+C:\Users\eduardo.gomes\Desktop\Desenvolmento de Sistemas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FUsuario.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\refint\Sistema_Vendas.dll
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.exe
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.deps.json
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.runtimeconfig.json
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.FMenu.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.Properties.Resources.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FCliente.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FFornecedor.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FUsuario.resources
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfo.cs
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_.0B5A007D.Up2Date
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.genruntimeconfig.cache
+C:\Users\Computador\Desktop\Miguel MFS\Aula13\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\ref\Sistema_Vendas.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.exe
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.deps.json
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.runtimeconfig.json
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.FMenu.resources
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.Properties.Resources.resources
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FCliente.resources
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FFornecedor.resources
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.view.FUsuario.resources
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.AssemblyInfo.cs
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_.0B5A007D.Up2Date
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\refint\Sistema_Vendas.dll
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.pdb
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\Sistema_Vendas.genruntimeconfig.cache
+C:\Users\Micro\Downloads\Sistema_Vendas\Sistema_Vendas\Sistema_Vendas\obj\Debug\net8.0-windows\ref\Sistema_Vendas.dll
